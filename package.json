@@ -1,0 +1,14 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "Microservice app for freecodecamp backend projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dalenguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
